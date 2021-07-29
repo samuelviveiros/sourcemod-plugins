@@ -1,0 +1,18 @@
+[submodule "l4d_invisible_wall"]
+	path = l4d_invisible_wall
+	url = ./l4d_invisible_wall
+[submodule "l4d_pet_witch"]
+	path = l4d_pet_witch
+	url = ./l4d_pet_witch
+[submodule "l4d_fix_mini_boss_flooding"]
+	path = l4d_fix_mini_boss_flooding
+	url = ./l4d_fix_mini_boss_flooding
+[submodule "l4d_delator"]
+	path = l4d_delator
+	url = ./l4d_delator
+[submodule "l4d_who_fired_car_alarm"]
+	path = l4d_who_fired_car_alarm
+	url = ./l4d_who_fired_car_alarm
+[submodule "l4d2_auto_scrambleteams"]
+	path = l4d2_auto_scrambleteams
+	url = ./l4d2_auto_scrambleteams
